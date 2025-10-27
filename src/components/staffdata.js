@@ -4,7 +4,7 @@ const Staffprofiles =[
        "id": 1,
      "name": "Mr Mita",
      "position": "Student Adviser",
-     "photo": "",
+     "photo": "/public/Mr Mita.jpg",
      "address": "15 Ekpenyong St",
     },
     
@@ -12,7 +12,7 @@ const Staffprofiles =[
        "id" : 2,
      "name": "Mr Esaint",
      "position": "JavaScript Instructor",
-     "photo": "",
+     "photo": "/public/Esaint.jpg",
      "address": "15 Ekpenyong St",
     },
 
@@ -20,7 +20,7 @@ const Staffprofiles =[
         "id": 3,
      "name": "Mr Waggy",
      "position": "HTML Instructor",
-     "photo": "",
+     "photo": "/public/Waggy.jpg",
      "address": "15 Ekpenyong St",
     },
     
@@ -28,7 +28,7 @@ const Staffprofiles =[
         "id": 4,
      "name": "Mr Jahno",
      "position": "Head of Staff",
-     "photo": "",
+     "photo": "/public/Jahno.jpg",
      "address": "15 Ekpenyong St",
     },
 
@@ -36,7 +36,7 @@ const Staffprofiles =[
         "id": 5,
      "name": "Miss Sifon",
      "position": "Accountant",
-     "photo": "",
+     "photo": "/public/Sifon.jpg",
      "address": "15 Ekpenyong St",
     },
 
@@ -44,7 +44,7 @@ const Staffprofiles =[
         "id": 6,
      "name": "Mr Uwem",
      "position": "Manager",
-     "photo": "",
+     "photo": "/public/Uwem.jpg",
      "address": "15 Ekpenyong St",
     },
 
